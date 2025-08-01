@@ -8,6 +8,6 @@
 
 ## Projects
 
-| Day | Code                                                             | Demo          | Notes                     |
-| :-: | ---------------------------------------------------------------- | ------------- | ------------------------- |
-|  1  | [Expanding cards](https://github.com/younissm/table/main/day_01) | [Live Demo]() | [Notes](/day_01/NOTES.md) |
+| Day | Code                                                            | Demo                                                    | Notes                     |
+| :-: | --------------------------------------------------------------- | ------------------------------------------------------- | ------------------------- |
+|  1  | [Expanding cards](https://github.com/younissm/tree/main/day_01) | [Live Demo](https://younissm.github.io/50_days/day_01/) | [Notes](/day_01/NOTES.md) |
