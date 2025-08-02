@@ -27,3 +27,4 @@ An interactive album for images of beautiful places
 
 - using `forEach` on `NodeList`
 - `relative` on parent and `absolute` on child
+- `overflow: hidden` property so that we don't get a scrollbar
