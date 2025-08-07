@@ -16,3 +16,4 @@
 |  4  | [Hidden Search](https://github.com/younissm/50_days/tree/main/day_04)       | [Live Demo](https://younissm.github.io/50_days/day_04/) | [Notes](/day_04/NOTES.md) |
 |  5  | [Blurry Loading](https://github.com/younissm/50_days/tree/main/day_05)      | [Live Demo](https://younissm.github.io/50_days/day_05/) | [Notes](/day_05/NOTES.md) |
 |  6  | [Scroll Animation](https://github.com/younissm/50_days/tree/main/day_06)    | [Live Demo](https://younissm.github.io/50_days/day_06/) | [Notes](/day_06/NOTES.md) |
+|  7  | [Split Landing Page](https://github.com/younissm/50_days/tree/main/day_07)  | [Live Demo](https://younissm.github.io/50_days/day_07/) | [Notes](/day_07/NOTES.md) |
