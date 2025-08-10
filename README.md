@@ -19,3 +19,4 @@
 |  7  | [Split Landing Page](https://github.com/younissm/50_days/tree/main/day_07)  | [Live Demo](https://younissm.github.io/50_days/day_07/) | [Notes](/day_07/NOTES.md) |
 |  8  | [Login Screen Wave](https://github.com/younissm/50_days/tree/main/day_08)   | [Live Demo](https://younissm.github.io/50_days/day_08/) | [Notes](/day_08/NOTES.md) |
 |  9  | [Sound Board](https://github.com/younissm/50_days/tree/main/day_09)         | [Live Demo](https://younissm.github.io/50_days/day_09/) | [Notes](/day_09/NOTES.md) |
+| 10  | [Dad Jokes](https://github.com/younissm/50_days/tree/main/day_10)           | [Live Demo](https://younissm.github.io/50_days/day_10/) | [Notes](/day_10/NOTES.md) |
