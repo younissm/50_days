@@ -23,3 +23,4 @@
 | 11  | [Event KeyCodes](https://github.com/younissm/50_days/tree/main/day_11)       | [Live Demo](https://younissm.github.io/50_days/day_11/) | [Notes](/day_11/NOTES.md) |
 | 12  | [FAQ](https://github.com/younissm/50_days/tree/main/day_12)                  | [Live Demo](https://younissm.github.io/50_days/day_12/) | [Notes](/day_12/NOTES.md) |
 | 13  | [Random Choice Picker](https://github.com/younissm/50_days/tree/main/day_13) | [Live Demo](https://younissm.github.io/50_days/day_13/) | [Notes](/day_13/NOTES.md) |
+| 14  | [Animated Navigation](https://github.com/younissm/50_days/tree/main/day_14)  | [Live Demo](https://younissm.github.io/50_days/day_14/) | [Notes](/day_14/NOTES.md) |
